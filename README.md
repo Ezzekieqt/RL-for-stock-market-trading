@@ -1,6 +1,6 @@
 # Portfolio Performance Comparison
 
-The following images illustrate the percentage increase (y-axis) of our portfolio (blue color) compared to Bitcoin (yellow color) during the observed period (x-axis).
+The following images illustrate SOME results of the percentage increase (y-axis) of our portfolio (blue color) compared to Bitcoin (yellow color) during the observed period (x-axis).
 
 **Note**: The algorithm and its artificial intelligence model are not publicly disclosed from a security perspective.
 
